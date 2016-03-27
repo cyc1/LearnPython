@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+#生成器那一节的练习，打印杨辉三角
 def triangles():
     L=[1]
     while True:
